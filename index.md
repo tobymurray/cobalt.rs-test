@@ -8,3 +8,6 @@ layout: default.liquid
 
 [{{ post.title }}]({{ post.permalink }})
 {% endfor %}
+
+A change has been made
+![My helpful screenshot](/assets/images/20180505_140918.jpg)
